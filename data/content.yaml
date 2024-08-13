@@ -1,0 +1,115 @@
+BasicInfo:
+  FirstName: Eliezer
+  LastName: de Souza da Silva
+  Photo: img/avatar.png
+  Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 789
+    - Icon: fas fa-envelope
+      Info: eliezer@probabilistic.ai
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://sereliezer.github.io" target="_blank">sereliezer.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Brazil
+
+Profile: Researcher in Probabilistic AI/ML, Statistics and Data Science
+
+Experience:
+  - Employer: Getúlio Vargas Foundation (FGV)
+    Place: Rio de Janeiro, BR
+    Positions:
+      - Title: Postdoc Researcher
+        Date: Sep 2022 - Present
+        Details:
+          - Generative Models, Causal Inference, Deep Learning
+        Badges: ['Python', 'Torch']
+  - Employer: Norwegian University of Science and Technology (NTNU)
+    Place: Trondheim, NO
+#    Class: "experience__extra_padding"
+    Positions:
+      - Title: Postdoc Researcher
+        Date: Sep 2021 - Aug 2022
+        Details:
+          - Computational Social Science
+        Badges: ['Python', 'Interdisciplinarity']
+      - Title: PhD Fellow 
+        Date: Sep 2015 - Sep 2021
+        Details:
+          - Research in Probabilistic Machine Learning
+          - Teaching the courses of Deep Learning, Methods in Artificial Intelligence
+        Badges: ['Deep Learning', 'Statistics', 'Mathematical modelling']
+  - Employer: The Curious AI Company
+    Place: Helsinki, FI
+    Positions:
+      - Title: Research Intern
+        Date: Oct 2019 - Jan 2020
+        Details:
+          - R&D with model-based reinforcement learning and planning with discrete and continuous decision variables for industrial applications.
+        Badges: ['Python', 'Torch', 'Mathematical Modeling']
+Research: 
+  - Position: The Curious AI Company
+    Place: Helsinki, FI
+    Positions:
+      - Title: Research Intern
+        Date: Oct 2019 - Jan 2020
+        Details:
+          - R&D with model-based reinforcement learning and planning with discrete and continuous decision variables for industrial applications.
+        Badges: ['Python', 'Torch', 'Mathematical Modeling']
+
+Education:
+  - Course: Ph.D. in Computer Science
+    Place: Norwegian University of Science and Technology
+    Date: 2015 - 2021
+  - Course: M.Sc. in Electrical and Computer Engineering
+    Place: University of Campinas
+    Date: 2012 - 2014
+  - Course: BSc in Computer Engineering
+    Place: Federal University of Espirito Santo
+    Date: 2006 - 2011
+
+
+#References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - C/C++
+      - Stan
+      - Gen
+  - Family: Frameworks
+    Items:
+      - Torch
+      - Pyro
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: Fluent
+  - Name: Spanish
+    Level: Basic
+  - Name: French
+    Level: Basic
+  - Name: Cape Verdean Creole
+    Level: Native
+
+#Diplomas:
+#  - ISTQB Tester Certification (2019)
+#  - English Cambridge CAE (2009)
+
+Interests:
+  - Meditation
+  - Long walks
+  - Cooking
+  - Music
+  - World Cultures
